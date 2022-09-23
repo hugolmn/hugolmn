@@ -1,7 +1,7 @@
 # Hi! I'm Hugo Le Moine 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hugolmn.hugolmn&format=True)
 
-## Where to find me?
+## :eyes: Where to find me?
 <a href="mailto:hugo.le-moine@outlook.fr">
   <img align="left" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg"/>
   Email
@@ -43,9 +43,13 @@
   Lavaur, France
 </a>
 
-## 🌱 I’m currently learning
-## 💬 Ask me about
-## Languages I speak
+## :office: Where I work•ed
+
+| <a href="https://www.pierre-fabre.com" target="_blank"><img align="middle" alt="Pierre Fabre" width="100px" height="100px" src="https://www.pierre-fabre.com//themes/custom/pf_corporate/logo.svg"/></a> | Data Scientist (2021 • now) |
+|:---------:|:----------------------------------:|
+| <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
+
+## :speak_no_evil: Languages I speak
 - :fr: :star::star::star::star:
 - :us: :star::star::star:
 - :es: :star::star:

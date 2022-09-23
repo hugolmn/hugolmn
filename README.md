@@ -8,25 +8,25 @@
 </a>
 </br>
 </br>
-<a href="linkedin.com/in/hugo-le-moine">
+<a href="https://linkedin.com/in/hugo-le-moine">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg"/>
   Linkedin
 </a>
 </br>
 </br>
-<a href="twitter.com/hugo_le_moine_">
+<a href="https://twitter.com/hugo_le_moine_">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg"/>
   Twitter
 </a>
 </br>
 </br>
-<a href="instagram.com/hugo_le_moine">
+<a href="https://instagram.com/hugo_le_moine">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/instagram.svg"/>
   Instagram
 </a>
 </br>
 </br>
-<a href="google.com/maps/place/Lavaur">
+<a href="https://google.com/maps/place/Lavaur">
   <img align="left" alt="Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlemaps.svg"/>
   Lavaur, France
 </a>

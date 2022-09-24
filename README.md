@@ -94,6 +94,17 @@
   SciPy
 </a>
 
+**Dataviz:**&nbsp;
+<a href="https://www.tableau.com">
+  <img align="middle" alt="Tableau " width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tableau.svg"/>
+  Tableau 
+</a>
+<a href="https://plotly.com/">
+  <img align="middle" alt="Dash" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
+  Dash
+</a>
+
+
 **Machine Learning:**&nbsp;
 <a href="https://scikit-learn.org/stable/">
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>

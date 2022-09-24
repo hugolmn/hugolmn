@@ -49,16 +49,14 @@
 |:---------:|:----------------------------------:|
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
-## My tech stack
-### Programming languages
----
+# My tech stack
+## Programming languages
 <a href="https://www.python.org/">Python</a>&nbsp;
 <a href="https://www.r-project.org/">R</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
 
-### Data science
----
+## Data science
 **Data processing:**&nbsp;
 <a href="https://pandas.pydata.org/">pandas</a>&nbsp;
 <a href="https://numpy.org/">NumPy</a>&nbsp;
@@ -80,8 +78,7 @@
 <a href="https://xgboost.readthedocs.io">XGBoost</a>&nbsp;
 <a href="https://spacy.io/">spaCy</a>
 
-### Databases
----
+## Databases
 **SQL:**&nbsp;
 <a href="https://www.mysql.com">MySQL</a>&nbsp;
 <a href="https://www.postgresql.org/">PostgreSQL</a>&nbsp;
@@ -93,8 +90,7 @@
 <a href="https://www.mongodb.com">MongoDB</a>&nbsp;
 <a href="https://neo4j.com">Neo4j</a>
 
-### Web apps
----
+## Web apps
 **Frameworks:**&nbsp;
 <a href="https://plotly.com/">Dash</a>&nbsp;
 <a href="https://flask.palletsprojects.com">Flask</a>&nbsp;
@@ -105,8 +101,7 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">CSS</a>&nbsp;
 <a href="https://getbootstrap.com/">Bootstrap</a>
 
-### IaaS & PaaS
----
+## IaaS & PaaS
 <a href="https://azure.microsoft.com">Azure</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
 
 <a href="https://cloud.google.com">GCP</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
@@ -117,8 +112,7 @@
 
 <a href="https://www.heroku.com/">Heroku</a>: Dyno, Postgre
 
-### DevOps
----
+## DevOps
 **VCS/SCM:**&nbsp;
 <a href="https://git-scm.com/">git</a>&nbsp;
 <a href="https://github.com/">GitHub</a>&nbsp;
@@ -142,8 +136,7 @@
 <a href="https://www.elastic.co/kibana/">Kibana</a>&nbsp;
 <a href="https://www.portainer.io/">Portainer</a>
 
-### Development environments
----
+## Development environments
 **Operating Systems:**&nbsp;
 <a href="https://www.microsoft.com/windows">Windows</a>&nbsp;
 <a href="https://www.linux.org/">Linux</a>

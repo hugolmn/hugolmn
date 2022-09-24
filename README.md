@@ -150,9 +150,10 @@
   Flask
 </a>
 &nbsp;
-<a href="https://getbootstrap.com/">
-  <img align="middle" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg"/>
-  Bootstrap
+<a href="https://streamlit.io/">
+  <img align="middle" alt="  Streamlit
+" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/streamlit.svg"/>
+  Streamlit
 </a>
 
 #### **Web design**

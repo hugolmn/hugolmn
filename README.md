@@ -49,8 +49,8 @@
 |:---------:|:----------------------------------:|
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
-## My tech stack
-### Python
+# My tech stack
+## Python
 #### **Data processing**
 <a href="https://pandas.pydata.org/">
   <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
@@ -77,7 +77,7 @@
   SciPy
 </a>
 
-### **Machine Learning**
+#### **Machine Learning**
 <a href="https://scikit-learn.org/stable/">
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
   scikit-learn
@@ -98,7 +98,40 @@
   spaCy
 </a>
 
-### DevOps
+## Databases
+
+#### **SQL**
+<a href="https://www.mysql.com">
+  <img align="middle" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"/>
+  MySQL
+</a>
+&nbsp;
+<a href="https://www.postgresql.org/">
+  <img align="middle" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg"/>
+  PostgreSQL
+</a>
+&nbsp;
+<a href="https://www.snowflake.com">
+  <img align="middle" alt="Snowflake" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/snowflake.svg"/>
+  Snowflake
+</a>
+<a href="https://www.cockroachlabs.com/">
+  <img align="middle" alt="CockroachDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cockroachlabs.svg"/>
+  CockroachDB
+</a>
+
+#### **NoSQL**
+<a href="https://www.mongodb.com">
+  <img align="middle" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg"/>
+  MongoDB
+</a>
+&nbsp;
+<a href="https://neo4j.com">
+  <img align="middle" alt="Neo4j" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neo4j.svg"/>
+  Neo4j
+</a>
+
+## DevOps
 
 #### **VCS/SCM**
 <a href="https://git-scm.com/">

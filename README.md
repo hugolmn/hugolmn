@@ -170,7 +170,7 @@
 
 **Frameworks:**&nbsp;
 <a href="https://plotly.com/">
-  <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
+  <img align="middle" alt="Dash" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
   Dash
 </a>
 &nbsp;

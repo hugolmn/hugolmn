@@ -138,7 +138,7 @@
   Neo4j
 </a>
 
-## Web development
+## Web apps
 
 #### **Frameworks**
 <a href="https://plotly.com/">
@@ -236,7 +236,7 @@
   Azure Pipelines
 </a>
 
-#### **Test**
+#### **Testing**
 <a href="https://docs.pytest.org">
   <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
   PyTest
@@ -247,7 +247,7 @@
   Selenium
 </a>
 
-#### **Deploy** 
+#### **Deployment** 
 <a href="https://www.docker.com/">
   <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
   Docker

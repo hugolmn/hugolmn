@@ -203,6 +203,30 @@
   Portainer
 </a>
 
+## Development environments
+
+#### **Operating Systems**
+<a href="https://www.microsoft.com/windows">
+  <img align="middle" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg"/>
+  Windows
+</a>
+&nbsp;
+<a href="https://www.linux.org/">
+  <img align="middle" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg"/>
+  Linux
+</a>
+
+#### **IDEs**
+<a href="https://code.visualstudio.com/">
+  <img align="middle" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg"/>
+  VS Code
+</a>
+&nbsp;
+<a href="https://jupyter.org/">
+  <img align="middle" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jupyter.svg"/>
+  Jupyter
+</a>
+
 ## :speak_no_evil: Languages I speak
 - :fr: :star::star::star::star:
 - :us: :star::star::star:

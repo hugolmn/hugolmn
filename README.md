@@ -49,15 +49,16 @@
 |:---------:|:----------------------------------:|
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
-# My tech stack
-## Programming languages
+## My tech stack
+### Programming languages
+---
 <a href="https://www.python.org/">Python</a>&nbsp;
 <a href="https://www.r-project.org/">R</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
 
-## Data science
-
+### Data science
+---
 **Data processing:**&nbsp;
 <a href="https://pandas.pydata.org/">pandas</a>&nbsp;
 <a href="https://numpy.org/">NumPy</a>&nbsp;
@@ -67,17 +68,20 @@
 
 **Dataviz:**&nbsp;
 <a href="https://www.tableau.com">Tableau</a>&nbsp;
-<a href="https://plotly.com/">Dash</a>
+<a href="https://matplotlib.org/">Matplotlib</a>&nbsp;
+<a href="https://plotly.com/">Plotly</a>&nbsp;
+<a href="https://altair-viz.github.io/">Vega-Altair</a>
 
 
 **Machine Learning:**&nbsp;
 <a href="https://scikit-learn.org/stable/">scikit-learn</a>&nbsp;
 <a href="https://keras.io/">Keras</a>&nbsp;
 <a href="https://www.tensorflow.org">TensorFlow</a>&nbsp;
+<a href="https://xgboost.readthedocs.io">XGBoost</a>&nbsp;
 <a href="https://spacy.io/">spaCy</a>
 
-## Databases
-
+### Databases
+---
 **SQL:**&nbsp;
 <a href="https://www.mysql.com">MySQL</a>&nbsp;
 <a href="https://www.postgresql.org/">PostgreSQL</a>&nbsp;
@@ -89,8 +93,8 @@
 <a href="https://www.mongodb.com">MongoDB</a>&nbsp;
 <a href="https://neo4j.com">Neo4j</a>
 
-## Web apps
-
+### Web apps
+---
 **Frameworks:**&nbsp;
 <a href="https://plotly.com/">Dash</a>&nbsp;
 <a href="https://flask.palletsprojects.com">Flask</a>&nbsp;
@@ -101,20 +105,20 @@
 <a href="https://developer.mozilla.org/fr/docs/Web/CSS">CSS</a>&nbsp;
 <a href="https://getbootstrap.com/">Bootstrap</a>
 
-## IaaS & PaaS
-
+### IaaS & PaaS
+---
 <a href="https://azure.microsoft.com">Azure</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
-</br>
+
 <a href="https://cloud.google.com">GCP</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
-</br>
+
 <a href="https://aws.amazon.com">AWS</a>: EC2, S3
-</br>
+
 <a href="https://www.palantir.com/platforms/foundry">Palantir Foundry</a>: Contour, Quiver, Code Repositories, Slate.
-</br>
+
 <a href="https://www.heroku.com/">Heroku</a>: Dyno, Postgre
 
-## DevOps
-
+### DevOps
+---
 **VCS/SCM:**&nbsp;
 <a href="https://git-scm.com/">git</a>&nbsp;
 <a href="https://github.com/">GitHub</a>&nbsp;
@@ -138,8 +142,8 @@
 <a href="https://www.elastic.co/kibana/">Kibana</a>&nbsp;
 <a href="https://www.portainer.io/">Portainer</a>
 
-## Development environments
-
+### Development environments
+---
 **Operating Systems:**&nbsp;
 <a href="https://www.microsoft.com/windows">Windows</a>&nbsp;
 <a href="https://www.linux.org/">Linux</a>
@@ -152,301 +156,6 @@
 **Package and env management:**&nbsp;
 <a href="https://www.anaconda.com">Anaconda</a>&nbsp;
 <a href="https://pypi.org/">PyPI</a>
-
-<!-- ## Programming languages
-<a href="https://www.python.org/">
-  <img align="middle" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg"/>
-  Python
-</a>
-&nbsp;
-<a href="https://www.r-project.org/">
-  <img align="middle" alt="R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/r.svg"/>
-  R
-</a>
-&nbsp;
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
-  <img align="middle" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg"/>
-  C
-</a>
-&nbsp;
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">
-  <img align="middle" alt="C++" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg"/>
-  C++
-</a>
-
-## Data science
-
-**Data processing:**&nbsp;
-<a href="https://pandas.pydata.org/">
-  <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
-  pandas
-</a>
-&nbsp;
-<a href="https://numpy.org/">
-  <img align="middle" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/numpy.svg"/>
-  NumPy
-</a>
-&nbsp;
-<a href="https://spark.apache.org/">
-  <img align="middle" alt="PySpark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apachespark.svg"/>
-  PySpark
-</a>
-&nbsp;
-<a href="https://www.dask.org/">
-  <img align="middle" alt="Dask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dask.svg"/>
-  Dask
-</a>
-&nbsp;
-<a href="https://scipy.org/">
-  <img align="middle" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scipy.svg"/>
-  SciPy
-</a>
-
-**Dataviz:**&nbsp;
-<a href="https://www.tableau.com">
-  <img align="middle" alt="Tableau " width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tableau.svg"/>
-  Tableau 
-</a>
-<a href="https://plotly.com/">
-  <img align="middle" alt="Dash" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
-  Dash
-</a>
-
-
-**Machine Learning:**&nbsp;
-<a href="https://scikit-learn.org/stable/">
-  <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
-  scikit-learn
-</a>
-&nbsp;
-<a href="https://keras.io/">
-  <img align="middle" alt="Keras" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/keras.svg"/>
-  Keras
-</a>
-&nbsp;
-<a href="https://www.tensorflow.org">
-  <img align="middle" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg"/>
-  TensorFlow
-</a>
-&nbsp;
-<a href="https://spacy.io/">
-  <img align="middle" alt="spaCy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spacy.svg"/>
-  spaCy
-</a>
-
-## Databases
-
-**SQL:**&nbsp;
-<a href="https://www.mysql.com">
-  <img align="middle" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"/>
-  MySQL
-</a>
-&nbsp;
-<a href="https://www.postgresql.org/">
-  <img align="middle" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/postgresql.svg"/>
-  PostgreSQL
-</a>
-&nbsp;
-<a href="https://www.snowflake.com">
-  <img align="middle" alt="Snowflake" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/snowflake.svg"/>
-  Snowflake
-</a>
-&nbsp;
-<a href="https://www.cockroachlabs.com/">
-  <img align="middle" alt="CockroachDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cockroachlabs.svg"/>
-  CockroachDB
-</a>
-&nbsp;
-<a href="https://www.sqlite.org/">
-  <img align="middle" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sqlite.svg"/>
-  SQLite
-</a>
-
-
-**NoSQL:**&nbsp;
-<a href="https://www.mongodb.com">
-  <img align="middle" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg"/>
-  MongoDB
-</a>
-&nbsp;
-<a href="https://neo4j.com">
-  <img align="middle" alt="Neo4j" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/neo4j.svg"/>
-  Neo4j
-</a>
-
-## Web apps
-
-**Frameworks:**&nbsp;
-<a href="https://plotly.com/">
-  <img align="middle" alt="Dash" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
-  Dash
-</a>
-&nbsp;
-<a href="https://flask.palletsprojects.com">
-  <img align="middle" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/flask.svg"/>
-  Flask
-</a>
-&nbsp;
-<a href="https://streamlit.io/">
-  <img align="middle" alt="  Streamlit
-" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/streamlit.svg"/>
-  Streamlit
-</a>
-
-**Web design:**&nbsp;
-<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
-  <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg"/>
-  HTML
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
-  <img align="middle" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg"/>
-  CSS
-</a>
-&nbsp;
-<a href="https://getbootstrap.com/">
-  <img align="middle" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg"/>
-  Bootstrap
-</a>
-
-## IaaS & PaaS
-
-<a href="https://azure.microsoft.com">
-  <img align="center" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftazure.svg"/>
-  Azure
-</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
-</br>
-<a href="https://cloud.google.com">
-  <img align="middle" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecloud.svg"/>
-  GCP
-</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
-</br>
-<a href="https://aws.amazon.com">
-  <img align="middle" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg"/>
-  AWS
-</a>: EC2, S3
-</br>
-<a href="https://www.palantir.com/platforms/foundry">
-  <img align="middle" alt="Palantir Foundry" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/palantir.svg"/>
-  Palantir Foundry
-</a>: Contour, Quiver, Code Repositories, Slate.
-</br>
-<a href="https://www.heroku.com/">
-  <img align="middle" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/heroku.svg"/>
-  Heroku
-</a>: Dyno, Postgre
-
-## DevOps
-
-**VCS/SCM:**&nbsp;
-<a href="https://git-scm.com/">
-  <img align="middle" alt="git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg"/>
-  git
-</a>
-&nbsp;
-<a href="https://github.com/">
-  <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/>
-  GitHub
-</a>
-&nbsp;
-<a href="https://gitlab.com">
-  <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
-  GitLab
-</a>
-
-**CI/CD:**&nbsp;
-<a href="https://github.com/features/actions">
-  <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg"/>
-  GitHub Actions
-</a>
-&nbsp;
-<a href="https://docs.gitlab.com/ee/ci/">
-  <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
-  GitLab CI/CD
-</a>
-&nbsp;
-<a href="https://azure.microsoft.com/products/devops/pipelines/">
-  <img align="middle" alt="Azure Pipelines" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/azurepipelines.svg"/>
-  Azure Pipelines
-</a>
-
-**Testing:**&nbsp;
-<a href="https://docs.pytest.org">
-  <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
-  PyTest
-</a>
-&nbsp;
-<a href="https://www.selenium.dev/">
-  <img align="middle" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/selenium.svg"/>
-  Selenium
-</a>
-
-**Deployment:**&nbsp;
-<a href="https://www.docker.com/">
-  <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
-  Docker
-</a>
-&nbsp;
-<a href="https://kubernetes.io/">
-  <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg"/>
-  Kubernetes
-</a>
-&nbsp;
-<a href="https://www.portainer.io/">
-  <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
-  Portainer
-</a>
-
-**Monitoring:**&nbsp;
-<a href="https://www.elastic.co/kibana/">
-  <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kibana.svg"/>
-  Kibana
-</a>
-&nbsp;
-<a href="https://www.portainer.io/">
-  <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
-  Portainer
-</a>
-
-## Development environments
-
-**Operating Systems:**&nbsp;
-<a href="https://www.microsoft.com/windows">
-  <img align="middle" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg"/>
-  Windows
-</a>
-&nbsp;
-<a href="https://www.linux.org/">
-  <img align="middle" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg"/>
-  Linux
-</a>
-
-**IDEs:**&nbsp;
-<a href="https://code.visualstudio.com/">
-  <img align="middle" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg"/>
-  VS Code
-</a>
-&nbsp;
-<a href="https://jupyter.org/">
-  <img align="middle" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jupyter.svg"/>
-  Jupyter
-</a>
-&nbsp;
-<a href="https://colab.research.google.com/">
-  <img align="middle" alt="Google Colab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecolab.svg"/>
-  Google Colab
-</a>
-
-**Package and env management:**&nbsp;
-<a href="https://www.anaconda.com">
-  <img align="middle" alt="Anaconda" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/anaconda.svg"/>
-  Anaconda
-</a>
-&nbsp;
-<a href="https://pypi.org/">
-  <img align="middle" alt="PyPI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pypi.svg"/>
-  PyPI
-</a> -->
 
 ## :speak_no_evil: Languages I speak
 - :fr: :star::star::star::star:

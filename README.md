@@ -293,6 +293,11 @@
   <img align="middle" alt="Jupyter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/jupyter.svg"/>
   Jupyter
 </a>
+&nbsp;
+<a href="https://colab.research.google.com/">
+  <img align="middle" alt="Google Colab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecolab.svg"/>
+  Google Colab
+</a>
 
 #### **Package and environment management**
 <a href="https://www.anaconda.com">

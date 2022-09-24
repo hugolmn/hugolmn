@@ -115,10 +115,17 @@
   <img align="middle" alt="Snowflake" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/snowflake.svg"/>
   Snowflake
 </a>
+&nbsp;
 <a href="https://www.cockroachlabs.com/">
   <img align="middle" alt="CockroachDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cockroachlabs.svg"/>
   CockroachDB
 </a>
+&nbsp;
+<a href="https://www.sqlite.org/">
+  <img align="middle" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sqlite.svg"/>
+  SQLite
+</a>
+
 
 #### **NoSQL**
 <a href="https://www.mongodb.com">

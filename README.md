@@ -166,6 +166,41 @@
   <img align="middle" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg"/>
   CSS
 </a>
+<a href="https://getbootstrap.com/">
+  <img align="middle" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg"/>
+  Bootstrap
+</a>
+
+## IaaS & PaaS
+
+<a href="https://azure.microsoft.com">
+  <img align="middle" alt="Azure" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftazure.svg"/>
+  Azure
+</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
+
+
+<a href="https://cloud.google.com">
+  <img align="middle" alt="GCP" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecloud.svg"/>
+  GCP
+</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
+
+<a href="https://aws.amazon.com">
+  <img align="middle" alt="AWS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/amazonaws.svg"/>
+  AWS
+</a>: EC2, S3
+
+<a href="https://www.palantir.com/platforms/foundry">
+  <img align="middle" alt="Palantir Foundry" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/palantir.svg"/>
+  Palantir Foundry
+</a>: Contour, Quiver, Code Repositories, Slate.
+
+
+<a href="https://www.heroku.com/">
+  <img align="middle" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/heroku.svg"/>
+  Heroku
+</a>: Dyno, Postgre
+
+
 
 ## DevOps
 

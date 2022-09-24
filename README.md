@@ -47,7 +47,7 @@
 # My tech stack
 ## Python
 
-- **Data processing**
+**Data processing:**
 <a href="https://pandas.pydata.org/">
   <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
   pandas
@@ -73,7 +73,7 @@
   SciPy
 </a>
 
-- **Machine Learning**
+**Machine Learning:**
 <a href="https://scikit-learn.org/stable/">
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
   scikit-learn

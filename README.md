@@ -56,18 +56,22 @@
   <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
   pandas
 </a>
+&nbsp;
 <a href="https://numpy.org/">
   <img align="middle" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/numpy.svg"/>
   NumPy
 </a>
+&nbsp;
 <a href="https://spark.apache.org/">
   <img align="middle" alt="PySpark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apachespark.svg"/>
   PySpark
 </a>
+&nbsp;
 <a href="https://www.dask.org/">
   <img align="middle" alt="Dask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dask.svg"/>
   Dask
 </a>
+&nbsp;
 <a href="https://scipy.org/">
   <img align="middle" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scipy.svg"/>
   SciPy
@@ -78,14 +82,17 @@
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
   scikit-learn
 </a>
+&nbsp;
 <a href="https://keras.io/">
   <img align="middle" alt="Keras" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/keras.svg"/>
   Keras
 </a>
+&nbsp;
 <a href="https://www.tensorflow.org">
   <img align="middle" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg"/>
   TensorFlow
 </a>
+&nbsp;
 <a href="https://spacy.io/">
   <img align="middle" alt="spaCy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spacy.svg"/>
   spaCy
@@ -98,10 +105,12 @@
   <img align="middle" alt="git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg"/>
   git
 </a>
+&nbsp;
 <a href="https://github.com/">
   <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/>
   GitHub
 </a>
+&nbsp;
 <a href="https://gitlab.com">
   <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
   GitLab
@@ -112,10 +121,12 @@
   <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg"/>
   GitHub Actions
 </a>
+&nbsp;
 <a href="https://docs.gitlab.com/ee/ci/">
   <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
   GitLab CI/CD
 </a>
+&nbsp;
 <a href="https://azure.microsoft.com/products/devops/pipelines/">
   <img align="middle" alt="Azure Pipelines" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/azurepipelines.svg"/>
   Azure Pipelines
@@ -126,6 +137,7 @@
   <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
   PyTest
 </a>
+&nbsp;
 <a href="https://www.selenium.dev/">
   <img align="middle" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/selenium.svg"/>
   Selenium
@@ -136,10 +148,12 @@
   <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
   Docker
 </a>
+&nbsp;
 <a href="https://kubernetes.io/">
   <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg"/>
   Kubernetes
 </a>
+&nbsp;
 <a href="https://www.portainer.io/">
   <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
   Portainer
@@ -150,6 +164,7 @@
   <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kibana.svg"/>
   Kibana
 </a>
+&nbsp;
 <a href="https://www.portainer.io/">
   <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
   Portainer

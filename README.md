@@ -51,7 +51,7 @@
 
 ## My tech stack
 ### Python
-Data processing
+#### **Data processing**
 <a href="https://pandas.pydata.org/">
   <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
   pandas
@@ -74,7 +74,8 @@ Data processing
 </a>
 </br>
 </br>
-Machine Learning: 
+
+### **Machine Learning**
 <a href="https://scikit-learn.org/stable/">
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
   scikit-learn
@@ -96,7 +97,7 @@ Machine Learning:
 
 ### DevOps
 
-VCS/SCM:
+#### **VCS/SCM**
 <a href="https://git-scm.com/">
   <img align="middle" alt="git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg"/>
   git
@@ -111,7 +112,8 @@ VCS/SCM:
 </a>
 </br>
 </br>
-CI/CD: 
+
+#### **CI/CD** 
 <a href="https://github.com/features/actions">
   <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg"/>
   GitHub Actions
@@ -126,7 +128,8 @@ CI/CD:
 </a>
 </br>
 </br>
-Test:
+
+#### **Test**
 <a href="https://docs.pytest.org">
   <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
   PyTest
@@ -137,7 +140,8 @@ Test:
 </a>
 </br>
 </br>
-Deploy: 
+
+#### **Deploy** 
 <a href="https://www.docker.com/">
   <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
   Docker
@@ -152,7 +156,8 @@ Deploy:
 </a>
 </br>
 </br>
-Monitoring: 
+
+#### **Monitoring**
 <a href="https://www.elastic.co/kibana/">
   <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kibana.svg"/>
   Kibana

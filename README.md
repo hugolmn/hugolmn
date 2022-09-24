@@ -138,6 +138,34 @@
   Neo4j
 </a>
 
+## Web development
+
+#### **Frameworks**
+<a href="https://plotly.com/">
+  <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
+  Dash
+</a>
+<a href="https://flask.palletsprojects.com">
+  <img align="middle" alt="Flask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/flask.svg"/>
+  Flask
+</a>
+&nbsp;
+<a href="https://getbootstrap.com/">
+  <img align="middle" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/bootstrap.svg"/>
+  Bootstrap
+</a>
+
+#### **Web design**
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML">
+  <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg"/>
+  HTML
+</a>
+&nbsp;
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS">
+  <img align="middle" alt="CSS" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/css3.svg"/>
+  CSS
+</a>
+
 ## DevOps
 
 #### **VCS/SCM**

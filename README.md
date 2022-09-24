@@ -45,7 +45,28 @@
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
 # My tech stack
-## Python
+## Programming languages
+<a href="https://www.python.org/">
+  <img align="middle" alt="Python" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg"/>
+  Python
+</a>
+&nbsp;
+<a href="https://www.r-project.org/">
+  <img align="middle" alt="R" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/r.svg"/>
+  R
+</a>
+&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img align="middle" alt="C" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg"/>
+  C
+</a>
+&nbsp;
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">
+  <img align="middle" alt="C++" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg"/>
+  C++
+</a>
+
+## Data science
 
 **Data processing:**&nbsp;
 <a href="https://pandas.pydata.org/">

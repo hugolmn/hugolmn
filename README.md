@@ -72,7 +72,8 @@
   <img align="middle" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scipy.svg"/>
   SciPy
 </a>
-
+</br>
+</br>
 - Machine Learning: 
 <a href="https://scikit-learn.org/stable/">
   <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
@@ -89,6 +90,76 @@
 <a href="https://spacy.io/">
   <img align="middle" alt="spaCy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spacy.svg"/>
   spaCy
+</a>
+</br>
+</br>
+
+### DevOps
+
+- VCS/SCM:
+<a href="https://git-scm.com/">
+  <img align="middle" alt="git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg"/>
+  git
+</a>
+<a href="https://github.com/">
+  <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg"/>
+  GitHub
+</a>
+<a href="https://gitlab.com">
+  <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
+  GitLab
+</a>
+</br>
+</br>
+- CI/CD: 
+<a href="https://github.com/features/actions">
+  <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg"/>
+  GitHub Actions
+</a>
+<a href="https://docs.gitlab.com/ee/ci/">
+  <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
+  GitLab CI/CD
+</a>
+<a href="https://azure.microsoft.com/products/devops/pipelines/">
+  <img align="middle" alt="Azure Pipelines" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/azurepipelines.svg"/>
+  Azure Pipelines
+</a>
+</br>
+</br>
+- Test:
+<a href="https://docs.pytest.org">
+  <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
+  PyTest
+</a>
+<a href="https://www.selenium.dev/">
+  <img align="middle" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/selenium.svg"/>
+  Selenium
+</a>
+</br>
+</br>
+- Deploy: 
+<a href="https://www.docker.com/">
+  <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
+  Docker
+</a>
+<a href="https://kubernetes.io/">
+  <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kubernetes.svg"/>
+  Kubernetes
+</a>
+<a href="https://www.portainer.io/">
+  <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
+  Portainer
+</a>
+</br>
+</br>
+- Monitoring: 
+<a href="https://www.elastic.co/kibana/">
+  <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kibana.svg"/>
+  Kibana
+</a>
+<a href="https://www.portainer.io/">
+  <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
+  Portainer
 </a>
 
 ## :speak_no_evil: Languages I speak

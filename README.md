@@ -72,8 +72,6 @@
   <img align="middle" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scipy.svg"/>
   SciPy
 </a>
-</br>
-</br>
 
 ### **Machine Learning**
 <a href="https://scikit-learn.org/stable/">
@@ -92,8 +90,6 @@
   <img align="middle" alt="spaCy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spacy.svg"/>
   spaCy
 </a>
-</br>
-</br>
 
 ### DevOps
 
@@ -110,8 +106,6 @@
   <img align="middle" alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/gitlab.svg"/>
   GitLab
 </a>
-</br>
-</br>
 
 #### **CI/CD** 
 <a href="https://github.com/features/actions">
@@ -126,8 +120,6 @@
   <img align="middle" alt="Azure Pipelines" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/azurepipelines.svg"/>
   Azure Pipelines
 </a>
-</br>
-</br>
 
 #### **Test**
 <a href="https://docs.pytest.org">
@@ -138,8 +130,6 @@
   <img align="middle" alt="Selenium" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/selenium.svg"/>
   Selenium
 </a>
-</br>
-</br>
 
 #### **Deploy** 
 <a href="https://www.docker.com/">
@@ -154,8 +144,6 @@
   <img align="middle" alt="Portainer" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/portainer.svg"/>
   Portainer
 </a>
-</br>
-</br>
 
 #### **Monitoring**
 <a href="https://www.elastic.co/kibana/">

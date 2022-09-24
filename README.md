@@ -263,6 +263,17 @@
   Jupyter
 </a>
 
+#### **Package and environment management**
+<a href="https://www.anaconda.com">
+  <img align="middle" alt="Anaconda" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/anaconda.svg"/>
+  Anaconda
+</a>
+&nbsp;
+<a href="https://pypi.org/">
+  <img align="middle" alt="PyPI" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pypi.svg"/>
+  PyPI
+</a>
+
 ## :speak_no_evil: Languages I speak
 - :fr: :star::star::star::star:
 - :us: :star::star::star:

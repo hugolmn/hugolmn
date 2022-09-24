@@ -49,6 +49,48 @@
 |:---------:|:----------------------------------:|
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
+## My tech stack
+### Python
+- Data processing
+<a href="https://pandas.pydata.org/">
+  <img align="middle" alt="pandas" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pandas.svg"/>
+  pandas
+</a>
+<a href="https://numpy.org/">
+  <img align="middle" alt="NumPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/numpy.svg"/>
+  NumPy
+</a>
+<a href="https://spark.apache.org/">
+  <img align="middle" alt="PySpark" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/apachespark.svg"/>
+  PySpark
+</a>
+<a href="https://www.dask.org/">
+  <img align="middle" alt="Dask" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/dask.svg"/>
+  Dask
+</a>
+<a href="https://scipy.org/">
+  <img align="middle" alt="SciPy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scipy.svg"/>
+  SciPy
+</a>
+
+- Machine Learning: 
+<a href="https://scikit-learn.org/stable/">
+  <img align="middle" alt="scikit-learn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/scikitlearn.svg"/>
+  scikit-learn
+</a>
+<a href="https://keras.io/">
+  <img align="middle" alt="Keras" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/keras.svg"/>
+  Keras
+</a>
+<a href="https://www.tensorflow.org">
+  <img align="middle" alt="TensorFlow" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/tensorflow.svg"/>
+  TensorFlow
+</a>
+<a href="https://spacy.io/">
+  <img align="middle" alt="spaCy" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/spacy.svg"/>
+  spaCy
+</a>
+
 ## :speak_no_evil: Languages I speak
 - :fr: :star::star::star::star:
 - :us: :star::star::star:

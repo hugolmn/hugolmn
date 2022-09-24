@@ -96,7 +96,7 @@
 
 ## Databases
 
-#### **SQL**
+**SQL:**
 <a href="https://www.mysql.com">
   <img align="middle" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mysql.svg"/>
   MySQL
@@ -123,7 +123,7 @@
 </a>
 
 
-#### **NoSQL**
+**NoSQL:**
 <a href="https://www.mongodb.com">
   <img align="middle" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/mongodb.svg"/>
   MongoDB
@@ -136,7 +136,7 @@
 
 ## Web apps
 
-#### **Frameworks**
+**Frameworks:**
 <a href="https://plotly.com/">
   <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/plotly.svg"/>
   Dash
@@ -153,7 +153,7 @@
   Streamlit
 </a>
 
-#### **Web design**
+**Web design:**
 <a href="https://developer.mozilla.org/fr/docs/Web/HTML">
   <img align="middle" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/html5.svg"/>
   HTML
@@ -198,7 +198,7 @@
 
 ## DevOps
 
-#### **VCS/SCM**
+**VCS/SCM:**
 <a href="https://git-scm.com/">
   <img align="middle" alt="git" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/git.svg"/>
   git
@@ -214,7 +214,7 @@
   GitLab
 </a>
 
-#### **CI/CD** 
+**CI/CD:** 
 <a href="https://github.com/features/actions">
   <img align="middle" alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/githubactions.svg"/>
   GitHub Actions
@@ -230,7 +230,7 @@
   Azure Pipelines
 </a>
 
-#### **Testing**
+**Testing:**
 <a href="https://docs.pytest.org">
   <img align="middle" alt="PyTest" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/pytest.svg"/>
   PyTest
@@ -241,7 +241,7 @@
   Selenium
 </a>
 
-#### **Deployment** 
+**Deployment:** 
 <a href="https://www.docker.com/">
   <img align="middle" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/docker.svg"/>
   Docker
@@ -257,7 +257,7 @@
   Portainer
 </a>
 
-#### **Monitoring**
+**Monitoring:**
 <a href="https://www.elastic.co/kibana/">
   <img align="middle" alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/kibana.svg"/>
   Kibana
@@ -270,7 +270,7 @@
 
 ## Development environments
 
-#### **Operating Systems**
+**Operating Systems:**
 <a href="https://www.microsoft.com/windows">
   <img align="middle" alt="Windows" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/windows.svg"/>
   Windows
@@ -281,7 +281,7 @@
   Linux
 </a>
 
-#### **IDEs**
+**IDEs:**
 <a href="https://code.visualstudio.com/">
   <img align="middle" alt="VS Code" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudiocode.svg"/>
   VS Code
@@ -297,7 +297,7 @@
   Google Colab
 </a>
 
-#### **Package and environment management**
+**Package and env management:**
 <a href="https://www.anaconda.com">
   <img align="middle" alt="Anaconda" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/anaconda.svg"/>
   Anaconda

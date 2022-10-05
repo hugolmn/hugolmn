@@ -108,7 +108,7 @@
 ## IaaS & PaaS
 <a href="https://azure.microsoft.com">Azure</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
 
-<a href="https://cloud.google.com">GCP</a>: Cloud Functions, Scheduler, Pub/Sub, Secret Manager, Drive API.
+<a href="https://cloud.google.com">GCP</a>: Cloud Functions, Cloud Run, Artifact Registry, Scheduler, Pub/Sub, Secret Manager, Drive API.
 
 <a href="https://aws.amazon.com">AWS</a>: EC2, S3
 

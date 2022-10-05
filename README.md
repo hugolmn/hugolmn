@@ -1,6 +1,10 @@
 # Hi! I'm Hugo Le Moine 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=hugolmn.hugolmn&format=True)
 
+## I'm currently working on:
+- [Quantified Self](https://github.com/hugolmn/quantified-self)
+- [Dividend Chart Bot](https://github.com/hugolmn/dividend-chart-bot)
+
 ## :eyes: Where to find me?
 <a href="mailto:hugo.le-moine@outlook.fr">
   <img align="middle" alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftoutlook.svg"/>

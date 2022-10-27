@@ -53,12 +53,13 @@
 |:---------:|:----------------------------------:|
 | <a href="https://airbus.com" target="_blank"><img align="middle" alt="Airbus" width="100px" height="100px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/airbus.svg"/></a> | Data Scientist (2018 • 2021) |
 
-# My tech stack
+# My Tech Stack
 ## Programming languages
-<a href="https://www.python.org/">Python</a>&nbsp;
+{% include about/skills.html source=site.data.programming-skills %}
+<!-- <a href="https://www.python.org/">Python</a>&nbsp;
 <a href="https://www.r-project.org/">R</a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a>&nbsp;
-<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">C++</a> -->
 
 ## Data science
 **Data processing:**&nbsp;
@@ -106,15 +107,36 @@
 <a href="https://getbootstrap.com/">Bootstrap</a>
 
 ## IaaS & PaaS
-<a href="https://azure.microsoft.com">Azure</a>: AKS, VMs, Functions, Pipelines, DevOps, Databricks, Database for PostgreSQL.
+**Azure:**&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/virtual-machines">VMs</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/functions">Functions</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/devops">DevOps</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/databricks">Databricks</a>&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/postgresql">Database for PostgreSQL</a>&nbsp;
 
-<a href="https://cloud.google.com">GCP</a>: Cloud Functions, Cloud Run, Artifact Registry, Scheduler, Pub/Sub, Secret Manager, Drive API.
+**GCP:**&nbsp;
+<a href="https://cloud.google.com/functions">Cloud Functions</a>&nbsp;
+<a href="https://cloud.google.com/run">Cloud Run</a>&nbsp;
+<a href="https://cloud.google.com/artifact-registry">Artifact Registry</a>&nbsp;
+<a href="https://cloud.google.com/scheduler">Scheduler</a>&nbsp;
+<a href="https://cloud.google.com/pubsub">Pub/Sub</a>&nbsp;
+<a href="https://cloud.google.com/secret-manager">Secret Manager</a>&nbsp;
+<a href="https://developers.google.com/drive/api/guides/about-sdk">Drive API</a>&nbsp;
 
-<a href="https://aws.amazon.com">AWS</a>: EC2, S3
+**AWS:**&nbsp;
+<a href="https://aws.amazon.com/ec2">EC2</a>&nbsp;
+<a href="https://aws.amazon.com/s3/">S3</a>&nbsp;
 
-<a href="https://www.palantir.com/platforms/foundry">Palantir Foundry</a>: Contour, Quiver, Code Repositories, Slate.
+**Palantir Foundry:**&nbsp;
+<a href="https://www.palantir.com/docs/foundry/contour">Contour</a>&nbsp;
+<a href="https://www.palantir.com/docs/foundry/quiver">Quiver</a>&nbsp;
+<a href="https://www.palantir.com/docs/foundry/code-workbook">Code Workbook</a>&nbsp;
+<a href="https://www.palantir.com/docs/foundry/code-repositories">Code Repositories</a>&nbsp;
+<a href="https://www.palantir.com/docs/foundry/slate/">Slate</a>&nbsp;
 
-<a href="https://www.heroku.com/">Heroku</a>: Dyno, Postgre
+**Heroku:**&nbsp;
+<a href="https://www.heroku.com/dynos">Dynos</a>&nbsp;
+<a href="https://www.heroku.com/postgres">Postgre</a>&nbsp;
 
 ## DevOps
 **VCS/SCM:**&nbsp;

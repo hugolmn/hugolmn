@@ -40,14 +40,14 @@
 </br>
 </br>
 <a href="https://calendly.com/hugolmn">
-  <img align="middle" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecalendar.svg"/>
+  <img align="middle" alt="Calendly" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlecalendar.svg"/>
   Calendly
 </a>
 </br>
 </br>
-<a href="https://google.com/maps/place/Lavaur">
-  <img align="middle" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlemaps.svg"/>
-  Lavaur, France
+<a href="https://google.com/maps/place/Paris">
+  <img align="middle" alt="Location" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/googlemaps.svg"/>
+  Paris, France
 </a>
 
 ## :computer: Github activity

@@ -4,7 +4,6 @@
 ## I'm currently working on:
 - [Quantified Self](https://github.com/hugolmn/quantified-self)
 - [Dividend Chart Bot](https://github.com/hugolmn/dividend-chart-bot)
-- [REITs](https://github.com/hugolmn/reits)
 
 ## About me
 <a href="https://hugolmn.github.io/about-me/">Visit my website</a>

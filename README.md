@@ -6,7 +6,7 @@
 - [Dividend Chart Bot](https://github.com/hugolmn/dividend-chart-bot)
 
 ## About me
-<a href="https://hugolmn.github.io/about-me/">Visit my website</a>
+<a href="https://hugolmn.github.io/">Visit my website</a>
 
 ## :eyes: Where to find me?
 <a href="mailto:hugo.le-moine@outlook.fr">
